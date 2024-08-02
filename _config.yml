@@ -18,12 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Rooks Welding and Fabrication
+title: Rooks Welding, LLC
 email: benjamin.rooks@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
   Veteran Owned
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "RooksWelding.com" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "/" # the subpath of your site, e.g. /blog
+#url: "RooksWelding.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: ""
 twitter_username: jekyllrb
 github_username:  jekyll
 
