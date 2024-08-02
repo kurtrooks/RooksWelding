@@ -1,0 +1,15 @@
+---
+modal-id: 3
+title: Welding Job 3
+subtitle: Description 3
+layout: default
+date: 2023-01-01
+img: weld3.jpg
+thumbnail: thumbs/weld3.jpg
+alt: image-alt
+project-date: 2023
+client: TBD
+category: TIG Welding
+description: Welding Job #3
+
+---

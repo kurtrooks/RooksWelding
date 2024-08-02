@@ -1,0 +1,15 @@
+---
+modal-id: 6
+title: Welding Job 6
+subtitle: Description 6
+layout: default
+date: 2023-01-01
+img: weld6.jpg
+thumbnail: thumbs/weld6.jpg
+alt: image-alt
+project-date: 2023
+client: TBD
+category: TIG Welding
+description: Welding Job #6
+
+---
