@@ -22,8 +22,8 @@ title: Rooks Welding and Fabrication
 email: benjamin.rooks@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
   Veteran Owned
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "RooksWelding.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/RooksWelding" # the subpath of your site, e.g. /blog
+url: "https://kurtrooks.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
